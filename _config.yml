@@ -1,6 +1,6 @@
 title: Marco Medrano
 description: Hi! Welcome to my site! I am a software engineer with 3+ years of experience in C/C++, python, embeded systems and robotics
 show_downloads: false
-remote_theme: pages-themes/slate@v0.2.0
+theme: jekyll-theme-slate
 plugins:
 - jekyll-remote-theme 
