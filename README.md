@@ -3,8 +3,8 @@
 #### Technical skills: C, C++, Python, MATLAB
 
 ## Education
-- Specialization, Embedded systems | Instituto Tecnológico y de Estudios Superiores de Occidente (_July 2024_)
-- B.S., Mechatronics Engineering | Centro de Enseñanza Técnica Industrial (_July 2022_)
+- Specialization, Embedded systems @ Instituto Tecnológico y de Estudios Superiores de Occidente (_July 2024_)
+- B.S., Mechatronics Engineering @ Centro de Enseñanza Técnica Industrial (_July 2022_)
 
 ## Work Experience
 **Robotics Software Engineer @ Omron (_May 2024 - Present_)**
